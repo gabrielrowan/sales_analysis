@@ -9,7 +9,7 @@
 
 ## Intro
 
-This is a data analysis project which examines the sales data from [this Kaggle dataset](https://www.kaggle.com/datasets/kyanyoga/sample-sales-data)
+This is a data analysis project which examines the sales data from [this Kaggle dataset](https://www.kaggle.com/datasets/kyanyoga/sample-sales-data).
 It goes through a list of 10 questions about the data, using when needed to illustrate the answer
 
 All the graphs can be found in the Graphs folder 
