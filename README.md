@@ -12,7 +12,7 @@
 This is a data analysis project which examines the sales data from [this Kaggle dataset](https://www.kaggle.com/datasets/kyanyoga/sample-sales-data).
 It goes through a list of 10 questions about the data, using graphs when needed 
 
-All the graphs can be found in the `Graphs` folder in this repo
+All the graphs can be found in the `Graphs` folder in this repo.
 The code, including how the graphs were generated, can be found in the [analyse_sales file](https://github.com/gabrielrowan/sales_analysis/blob/main/analyse_sales.ipynb).
 
 ![sales_by_deal_size](https://github.com/user-attachments/assets/7d6527e4-4a30-4b1c-b51f-cf8281b0c03f)
