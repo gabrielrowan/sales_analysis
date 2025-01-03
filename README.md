@@ -22,5 +22,6 @@ The code, including how the graphs were generated, can be found in the [analyse_
 - `analyse_py.ipynb` - The jupyter notebook containing the code analysing the data, generating and saving the graphs
 - `explore_sales_data.ipynb` - Checks that the data is clean and ready for analysis
 
+## Ending comments
 
-
+Made Jan 2025, Gabriel Rowan  :cat:
