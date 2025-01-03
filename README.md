@@ -26,21 +26,20 @@ The code, including how the graphs were generated, can be found in the [analyse_
 
 When analysing this data, I looked at the following: 
 
-1) Displaying a ranked list of the countries with most to least sales
-2) Displaying a bar chart showing sales per country, ranked highest to lowest
-3) Showing how the different deal sizes (small, medium, large) make up the total sales in the top 5 selling countries
-4) Comparing the sales trends over time in the UK in 2003 and 2004
+1) Displaying a bar chart showing sales per country, ranked highest to lowest
+2) Showing how the different deal sizes (small, medium, large) make up the total sales in the top 5 selling countries
+3) Comparing the sales trends over time in the UK in 2003 and 2004
 5) Showing the sales revenue of different product lines in the US
 6) Examining who were top 10 customers whose orders make the most money
 7) Showing the Percentage Share of Revenue from Top 3 Customers
    
 ![top_3_cust_rev](https://github.com/user-attachments/assets/261dd098-c96b-40a6-994e-0fc861f434e1)
 
-9) Answering how much of the total revenue is made from the top 10 customers
-10) Calculating how many orders were cancelled
-11) Working out how much revenue was lost from cancelled orders
+8) Answering how much of the total revenue is made from the top 10 customers
+9) Calculating how many orders were cancelled
+10) Working out how much revenue was lost from cancelled orders
 
 
 ## Ending comments
 
-Made Jan 2025, Gabriel Rowan  :cat:
+Analysis from Jan 2025, by Gabriel Rowan  :cat:
