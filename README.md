@@ -10,7 +10,7 @@
 ## Intro
 
 This is a data analysis project which examines the sales data from [this Kaggle dataset](https://www.kaggle.com/datasets/kyanyoga/sample-sales-data).
-It goes through a list of 10 questions about the data, using graphs when needed to illustrate the answer
+It goes through a list of 10 questions about the data, using graphs when needed 
 
 All the graphs can be found in the `Graph`s folder in this `.readme`
 The code, including how the graphs were generated, can be found in the [analyse_sales file](https://github.com/gabrielrowan/sales_analysis/blob/main/analyse_sales.ipynb).
