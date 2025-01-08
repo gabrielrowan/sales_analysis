@@ -32,9 +32,6 @@ Questions analysed while examining the data:
 4) What is the sales revenue from the  different product lines in the US?
 5) Who are the top 10 customers whose orders make the most money?
 6) What is the the Percentage Share of Revenue from Top 3 Customers?
-   
-![top_3_cust_rev](https://github.com/user-attachments/assets/261dd098-c96b-40a6-994e-0fc861f434e1)
-
 7) What proportion of orders come from each different continent?
 8) Which US States are the most profitable in terms of sales? Which are the least?
 
