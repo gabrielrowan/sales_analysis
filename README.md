@@ -24,20 +24,19 @@ The code, including how the graphs were generated, can be found in the [analyse_
 
 ## Analysis
 
-When analysing this data, I looked at the following: 
+Questions analysed while examining the data:
 
-1) Displaying a bar chart showing sales per country, ranked highest to lowest
-2) Showing how the different deal sizes (small, medium, large) make up the total sales in the top 5 selling countries
-3) Comparing the sales trends over time in the UK in 2003 and 2004
-5) Showing the sales revenue of different product lines in the US
-6) Examining who were top 10 customers whose orders make the most money
-7) Showing the Percentage Share of Revenue from Top 3 Customers
+1) What are the countries with the highest amount of sales?
+2) How do the different deal sizes (small, medium, large) make up the total sales in the top 5 selling countries?
+3) How sales trends in the US compare between 2003 and 2004?
+4) What is the sales revenue from the  different product lines in the US?
+5) Who are the top 10 customers whose orders make the most money?
+6) What is the the Percentage Share of Revenue from Top 3 Customers?
    
 ![top_3_cust_rev](https://github.com/user-attachments/assets/261dd098-c96b-40a6-994e-0fc861f434e1)
 
-8) Answering how much of the total revenue is made from the top 10 customers
-9) Calculating how many orders were cancelled
-10) Working out how much revenue was lost from cancelled orders
+7) What proportion of orders come from each different continent?
+8) Which US States are the most profitable in terms of sales? Which are the least?
 
 
 ## Ending comments
